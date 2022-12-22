@@ -1,0 +1,190 @@
+{
+  "about": [
+    {
+      "id": 0,
+      "content": "is the author of Of the Florids (Diode Editions, 2022), winner of the 2021 Diode Editions Chapbook Prize. His poetry has been anthologised in New Singapore Poetries (Gaudy Boy, 2022) and Exhale: An Anthology of Queer Singapore Voices (Math Paper Press, 2021) and published in New Delta Review, Queer Southeast Asia, Quarterly Literary Review Singapore, Voice and Verse Poetry Magazine and elsewhere. His Mandarin Chinese to English translations have been published in Journal of Practice, Research and Tangential Activities (PR&TA) and Exchanges: Journal of Literary Translation. He is Translation Tuesdays Editor at Asymptote. Shawn is born and based in Singapore.\n\n\nTEST"
+    }
+  ],
+  "books": [
+    {
+      "id": 0,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shawnhooportfolio.appspot.com/o/bookImages%2Fbook-cover_of-the-florids.png2506e0c2-7061-445e-b21e-4a5a9649d43b?alt=media&token=30ba50bf-7635-4d4b-b894-308cdbb7f04a",
+      "title": "Of the Florids",
+      "edition": "Diode Editions, 2022",
+      "awards": "Winner of the 2021 Diode Editions Chapbook Prize \nRunner-up of the 2021 Tupelo Press Sunken Garden Chapbook Prize",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec faucibus dui nec dignissim tempor. Vivamus viverra dictum libero, sed tempus arcu varius id. Nam luctus luctus enim, sit amet viverra arcu consequat fringilla. Sed non lectus eu elit convallis finibus in vitae orci. In vel turpis mollis, pharetra ex quis, ultrices mauris. Sed sed euismod mi, sit amet hendrerit ipsum.",
+      "reviews": [
+        [
+          0,
+          "Vivamus viverra dictum libero, sed tempus arcu varius id. Nam luctus luctus enim, sit amet viverra arcu consequat fringilla. Sed non lectus eu elit convallis finibus in vitae orci. In vel turpis mollis, pharetra ex quis, ultrices mauris.",
+          "John Doe"
+        ],
+        [
+          1,
+          "Vivamus viverra dictum libero, sed tempus arcu varius id. Nam luctus luctus enim, sit amet viverra arcu consequat fringilla. Sed non lectus eu elit convallis finibus in vitae orci. In vel turpis mollis, pharetra ex quis, ultrices mauris.",
+          "John Doe"
+        ]
+      ],
+      "interviews": [
+        [
+          0,
+          "Vivamus viverra dictum libero, sed tempus arcu varius id. Nam luctus luctus enim, sit amet viverra arcu consequat fringilla. Sed non lectus eu elit convallis finibus in vitae orci. In vel turpis mollis, pharetra ex quis, ultrices mauris.",
+          "John Doe"
+        ],
+        [
+          1,
+          "Vivamus viverra dictum libero, sed tempus arcu varius id. Nam luctus luctus enim, sit amet viverra arcu consequat fringilla. Sed non lectus eu elit convallis finibus in vitae orci. In vel turpis mollis, pharetra ex quis, ultrices mauris.",
+          "John Doe 123"
+        ]
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "id": 0,
+      "category": [
+        "Poetry",
+        [
+          {
+            "id": 0,
+            "first": "One Poem",
+            "second": "ABC Journal1"
+          },
+          {
+            "id": 1,
+            "first": "One Poem",
+            "second": "ABC Journal2"
+          },
+          {
+            "id": 2,
+            "first": "One Poem",
+            "second": "ABC Journal3"
+          },
+          {
+            "id": 3,
+            "first": "One Poem",
+            "second": "ABC Journal4"
+          },
+          {
+            "id": 4,
+            "first": "",
+            "second": ""
+          }
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "category": [
+        "Poetry",
+        [
+          {
+            "id": 0,
+            "first": "One Poem",
+            "second": "ABC Journal"
+          },
+          {
+            "id": 1,
+            "first": "One Poem",
+            "second": "ABC Journal"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "category": [
+        "Poetry",
+        [
+          {
+            "id": 0,
+            "first": "One Poem",
+            "second": "ABC Journal"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "category": [
+        "Poetry",
+        [
+          {
+            "id": 0,
+            "first": "One Poem",
+            "second": "ABC Journal"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "category": [
+        "Poetry",
+        [
+          {
+            "id": 0,
+            "first": "One Poem",
+            "second": "ABC Journal"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "category": [
+        "Poetry",
+        [
+          {
+            "id": 0,
+            "first": "One Poem",
+            "second": "ABC Journal"
+          }
+        ]
+      ]
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 0,
+      "header": "Sealey Challenge 1 2022 ",
+      "imageUrl": null,
+      "tags": [
+        "poetry1",
+        "poetry2",
+        "poetry3"
+      ],
+      "bodyPara": "Read a book of poems a day for the whole of August. Here’s my accompanying reading diary: not so much “reviews” as meditations on the words that float up to me as I close these books, or scribbles on the snatches of phrases that seem to arise out of a. CONTINUE. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "date": "21 August 2022"
+    },
+    {
+      "id": 1,
+      "header": "Sealey Challenge 2 2022",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shawnhooportfolio.appspot.com/o/blogImages%2Fbook-cover_of-the-florids.pngc6caa7e2-3c0a-4054-a718-925c42f5f6fb?alt=media&token=28dfaddb-c443-4d5f-884b-f9ecd9863eb1",
+      "tags": [
+        "poetry1",
+        "poetry2",
+        "poetry3"
+      ],
+      "bodyPara": "Read a book of poems a day for the whole of August. Here’s my accompanying reading diary: not so much “reviews” as meditations on the words that float up to me as I close these books, or scribbles on the snatches of phrases that seem to arise out of a. CONTINUE. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "date": "21 August 2022"
+    },
+    {
+      "id": 2,
+      "header": "Sealey Challenge 3 2022",
+      "imageUrl": null,
+      "tags": [
+        "poetry1",
+        "poetry2"
+      ],
+      "bodyPara": "Read a book of poems a day for the whole of August. Here’s my accompanying reading diary: not so much “reviews” as meditations on the words that float up to me as I close these books, or scribbles on the snatches of phrases that seem to arise out of a. CONTINUE. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nasdfasdf",
+      "date": "21 August 2022"
+    }
+  ],
+  "contact": [
+    {
+      "id": 0,
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet eros sit amet velit consequat fermentum. Quisque nec elit lorem. Nunc sit amet metus eu elit rutrum elementum vitae quis lectus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet eros sit amet velit consequat fermentum. Quisque nec elit lorem. Nunc sit amet metus eu elit rutrum elementum vitae quis lectus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet eros sit amet velit consequat fermentum. Quisque nec elit lorem. Nunc sit amet metus eu elit rutrum elementum vitae quis lectus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet eros sit amet velit consequat fermentum. Quisque nec elit lorem. Nunc sit amet metus eu elit rutrum elementum vitae quis lectus."
+    }
+  ]
+}
